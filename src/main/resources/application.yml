@@ -1,0 +1,8 @@
+com:
+  rendyezaputra:
+    hris:
+      service:
+        kafka:
+          topic:
+            produce-to:
+            consume-from:
